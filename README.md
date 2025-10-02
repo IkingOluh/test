@@ -1,3 +1,3 @@
 # Hello world
 ## Im student
-## Im cat gay 
+## Im cat
